@@ -1,8 +1,8 @@
 script:
   bin/fetch
   env
-  echo 'first'
-  echo 'second'
-  echo 'third'
-  echo 'fourth'
-  echo 'fifth'
+  echo first
+  echo second
+  echo third
+  echo fourth
+  echo fifth
